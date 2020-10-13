@@ -472,6 +472,12 @@ a.item-nav:focus {
     background-color: #EFEFEF;
 }
 
+#email-err, #message-err, #name-err{
+    color: rgb(255, 74, 74) !important;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
 /*Contact Us Section End*/
 /* Event Section Start */
 .event-card{
